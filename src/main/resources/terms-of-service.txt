@@ -1,0 +1,65 @@
+**ABC Bank Transaction Policy Document**
+
+**1. Introduction**
+This document outlines the transaction policies of ABC Bank, covering various types of financial transactions, including RPT (Real-Time Payments), ACH (Automated Clearing House), wire transfers, and other payment methods. The purpose of this policy is to ensure secure, compliant, and efficient transaction processing for all customers.
+
+**2. Transaction Types and Policies**
+
+**2.1 Real-Time Payments (RPT)**
+- RPT transactions are processed instantly, available 24/7.
+- Funds are irrevocable once transferred.
+- Customers must ensure sufficient balance before initiating an RPT.
+- Fraud detection mechanisms apply to all RPT transactions.
+
+**2.2 Automated Clearing House (ACH) Transactions**
+- ACH transactions include direct deposits, bill payments, and business-to-business payments.
+- Processing time: Typically 1-3 business days.
+- Transactions are subject to regulatory guidelines by NACHA.
+- Reversals are allowed in case of errors or fraud, subject to investigation.
+
+**2.3 Wire Transfers**
+- Available for both domestic and international transactions.
+- Same-day processing for domestic wire transfers if submitted before the cutoff time.
+- International wire transfers may take 1-5 business days depending on the country and intermediary banks.
+- Fees apply based on the transfer amount and destination.
+
+**2.4 Internal Transfers**
+- Instant transfer between ABC Bank accounts.
+- No transaction fees apply for personal account holders.
+- Business accounts may have a transfer limit based on their agreement with the bank.
+
+**2.5 Card Transactions (Debit/Credit)**
+- Customers can make purchases, withdrawals, and online payments using their ABC Bank cards.
+- Contactless and EMV chip-based transactions are supported.
+- Fraud monitoring is enabled for all transactions.
+- Chargebacks and disputes must be raised within 60 days of the transaction date.
+
+**2.6 Mobile and Online Banking Transactions**
+- Customers can perform fund transfers, bill payments, and account management via online banking.
+- Two-factor authentication (2FA) is required for high-value transactions.
+- Daily transaction limits apply based on customer tier.
+
+**2.7 Check Transactions**
+- Personal and business checks are processed according to standard clearing timelines.
+- Customers must ensure sufficient funds to avoid check bounces.
+- Stop payment requests must be submitted before check clearance.
+
+**3. Transaction Security and Compliance**
+- All transactions comply with federal regulations, including AML (Anti-Money Laundering) and KYC (Know Your Customer) policies.
+- Suspicious transactions are subject to review and potential reporting to regulatory authorities.
+- Multi-layered encryption and fraud detection mechanisms are in place to protect customer transactions.
+
+**4. Customer Responsibilities**
+- Customers must safeguard their banking credentials and report any suspicious activity immediately.
+- Disputes must be raised within the designated period as per transaction type.
+- ABC Bank reserves the right to impose limits, fees, and security measures as needed.
+
+**5. Amendments and Updates**
+- ABC Bank reserves the right to modify this policy as per regulatory requirements and business needs.
+- Customers will be notified of significant policy changes via official communication channels.
+
+**6. Contact Information**
+For transaction-related inquiries, customers may contact:
+- Customer Support: umesh karan 3188128686
+- Email: umesh.karan@in.ibm.com
+- Online Banking Portal: http://abc-bank.com
